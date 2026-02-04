@@ -1,2 +1,2 @@
 # autounattend.xml---Windows11
-arquivo XML configurado do meu jeito para instalar Windows 11
+arquivo XML com scripts que removem aplicativos/funções inúteis durante a instalação do Windows 11
